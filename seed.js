@@ -17,6 +17,18 @@ const seedUser = [
         thoughts: [],
         friends: []
     }
+    {
+        username: 'Puppy GooGoo',
+        email: 'Puppy@googoo.com',
+        thoughts: [],
+        friends: []
+    }
+    {
+        username: 'Alexander J BeanToes',
+        email: 'beantoes@iamacat.com',
+        thoughts: [],
+        friends: []
+    }
 ];
 
 const seedDB = async () => {
