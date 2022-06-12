@@ -1,0 +1,25 @@
+{
+  "name": "nosql_social_network",
+  "version": "1.0.0",
+  "description": "A social network site allowing registered users to submit posts and comments, built using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emhat1/NoSQL_Social_Network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emhat1/NoSQL_Social_Network/issues"
+  },
+  "homepage": "https://github.com/emhat1/NoSQL_Social_Network#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.6"
+  }
+}
