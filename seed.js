@@ -16,13 +16,13 @@ const seedUser = [
         email: 'fred@bear.com',
         thoughts: [],
         friends: []
-    }
+    },
     {
         username: 'Puppy GooGoo',
         email: 'Puppy@googoo.com',
         thoughts: [],
         friends: []
-    }
+    },
     {
         username: 'Alexander J BeanToes',
         email: 'beantoes@iamacat.com',
